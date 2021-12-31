@@ -189,6 +189,10 @@ body {
   margin-bottom: 8px;
 }
 
+.avatar_photo {
+    width: 370px;
+}
+
 /* contacts section */
 
 .contacts-section-type {
